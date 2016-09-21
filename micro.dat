@@ -1,0 +1,77 @@
+Locality																			
+------------------------------------------------------------------------------		
+Madison, WI
+																			
+# Julian Days to run (52 max)  Start Julian Day  End Julian Day USER NOTE: Start & End days here must be the same as the first & last Julian days to be run (below)																					
+----------------			----------------   ----------																
+12					      1	              365											
+
+Julian days to be run. 																			
+--------------------------------------------------------------------------------------------------------------------																			
+15. 46. 74. 105. 135. 166. 196. 227. 258. 288. 319. 349. 
+
+Roughness  Soil therm Sub.refl Sub.dens Sub.specific Sub. longIR Integrator Animal ave.																			
+height (m) cond (W/mC) (dec%)  (kg/m3)  heat(J/kg-K) emiss(dec%)  error     height (cm)																			
+---------- ----------- ------- -------- ------------ ----------- ---------- -----------																			
+   0.0001      0.35      0.25    2650.       837.        0.90        2.         180.
+ 
+Segmented velocity profiles due to bushes, rocks etc. on the surface. IF NO EXPERIMENTAL WIND PROFILE DATA SET ALL 4 of THESE TO ZERO!
+Top (1st) segment    2nd segment           Top of(1st) segment      2nd segment
+roughness height(m)  roughness height(m)   Height above surface(m)  Height above surface(m)
+-------------------- --------------------  --------------------     --------------------
+       0.0  		    0.0			   0.0			    0.0																			
+ 																		
+Start    End           																			
+month #  month #      																			
+-------  -------    																			
+   1       12   
+   																			   																			
+"Max's (top row), min's (bottom row) PERCENT SHADE (%) for ave.day each month/interval"																			
+----------------------------------------------------------------------------- 																			
+100. 100. 100. 100. 100. 100. 100. 100. 100. 100. 100. 100. 	
+0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 
+                       12 x integer																			
+Hemisphere Latitude    W Longitude Longit.time Slope Azimuth Elev. Cm H2O																			
+"N=1.,S=2.  (deg) (min) (deg) (min) zone(deg)   (deg) S=0(deg) (m)  in air col."																			
+---------  ----- ----- ----- ----- ----------- ----- ------- ----- -----------																			
+    1.      43.   6.   89.  28.     90.       0.     0.    226.     0.2 																			
+  																			
+"Time of MAXIMUMS (top row), Minimums (bottom row):  Air,Wind max's ~ solar noon"																			
+"(integer hours relative to sunrise or solar noon) Rel.Hum,Clouds max's ~ sunrise"																			
+Air   Wind   Rel. Cloud 																			
+temp. speed  hum. cover																			
+----- -----  ---- -----   																			
+1.0    1.0   0.0  0.0  																			
+0.0    0.0   1.0  1.0 
+
+"Max's (top row), min's (bottom row) REL HUMIDITIES (%) for ave.day each month  ***Max=Min+1.0"																			
+----------------------------------------------------------------------------- 																			
+70.0	70.0	70.0	70.0	70.0	70.0	70.0	70.0	70.0	70.0	70.0	70.0	
+40.0	40.0	40.0	40.0	40.0	40.0	40.0	40.0	40.0	40.0	40.0	40.0	
+
+"Max's (top row), min's (bottom row) CLOUD COVER (%) for ave.day each month   ***Max=Min+1.0"																			
+----------------------------------------------------------------------------- 																			
+58.9	54.0	53.1	46.6	46.1	46.9	39.1	43.4	53.9	62.7	70.9	68.5	
+57.9	53.0	52.1	45.6	45.1	45.9	38.1	42.4	52.9	61.7	69.9	67.5	
+
+"Max's (top row), min's (bottom row) WIND SPEED (m/s) for ave.day each month  ***Max=Min+0.1"																			
+-----------------------------------------------------------------------------																			
+3.8	3.7	4.1	4.3	4.0	3.8	3.4	3.4	3.8	4.1	4.0	3.8	
+3.7	3.6	4.0	4.2	3.9	3.7	3.3	3.3	3.7	4.0	3.9	3.7	
+ 																			
+"Max's (top row), min's (bottom row) AIR TEMPERATURE (C) for ave.day each Julian day"																			
+----------------------------------------------------------------------------- 	
+-10. -5.8 0.9 9.7 17.55 22.3 25.25 23.6 17.6 10.8 0.65 -7.1
+-21.8 -19.0 -11.3 -2.9 3.45 8.7 11.95 10.6 5.8 0.6 -7.65 -17.1
+
+Snow or free water presence/absence on surface  'Y'/'N'																			
+------------------------------------------------------------------------------																			
+'y' 'y' 'y' 'n' 'n' 'n' 'n' 'n' 'n' 'n' 'n' 'y' 
+
+Substrate reflectivity (albedo)(DECIMAL FRACTION <= 1.0)																			
+ -----------------------------------------------------------------------------																			
+0.78 0.78 0.78 0.25 0.25 0.25 0.25 0.25	0.25 0.25 0.25 0.78 
+
+ % of surface unit area that acts like a free water surface																			
+ -------------------------------------------------------------------------------																			
+100.0	100.0	100.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	100.0		
